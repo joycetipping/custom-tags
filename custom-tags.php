@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: joycetipping Custom Tags
+* Plugin Name: Custom Tags
 * Plugin URI: http://joycetipping.com
 * Description: A plugin to redefine the html tags allowed in posts and comments.
 * Version: 1.0
